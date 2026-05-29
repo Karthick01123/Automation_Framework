@@ -1,0 +1,17 @@
+target/
+
+test-output/
+
+screenshots/
+
+bin/
+
+
+
+.classpath
+
+.project
+
+.settings/
+
+git status
